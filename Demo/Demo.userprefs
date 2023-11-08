@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Materials\Shaders\SimpleTransition.shader">
+    <Files>
+      <File FileName="Assets\Materials\Shaders\FlashingIndicator.shader" Line="8" Column="85" />
+      <File FileName="Assets\Materials\Shaders\SimpleTransition.shader" Line="57" Column="12" />
+      <File FileName="Assets\Materials\Shaders\CubemapSkyboxBlend.shader" Line="74" Column="37" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
